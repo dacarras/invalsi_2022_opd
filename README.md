@@ -6,7 +6,8 @@ Addressing two metodological problems when students rate their classroom
 discussion. Presetation at the INVALSI 2022 “Promuovere lʼutilizzo dei
 dati INVALSI nella ricerca scientifica e nella didattica”, Rome, Italy.
 
--   [slides here](link%20to%20be%20updated)
+-   [slides
+    here](https://www.dropbox.com/s/d48rq5z1sbjfjkk/invalsi_2022_opd_plain.pdf?dl=1)
 
 # Publication
 
